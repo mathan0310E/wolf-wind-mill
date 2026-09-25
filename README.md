@@ -1,3 +1,4 @@
+<img width="1113" height="1458" alt="wolf wind mill connection" src="https://github.com/user-attachments/assets/87101153-be61-406a-ba4b-f80d1c6720a6" />
 # WINDX - Smart IoT Windmill Controller
 
 **ESP32 Wireless Motor Control Station**
